@@ -94,6 +94,7 @@ const SignatureCanvas = () => {
         <button className="clear" onClick={handleClear}>清空签名</button>
         <h1>哈哈哈哈</h1>
         <h2>咔咔咔咔</h2>
+        <h3>啦啦啦啦啦</h3>
       </p>
     </div>
   );
