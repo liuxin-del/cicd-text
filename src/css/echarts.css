@@ -1,0 +1,35 @@
+.box{
+    width:100%;
+    height:100vh;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+
+}
+.ox1{
+    width:32%;
+    height:300px;
+    background-color: antiquewhite;
+}
+.ox2{
+    width:32%;
+    height:300px;
+    background-color: rgb(207, 170, 122);
+}
+.ox3{
+    width:32%;
+    height:300px;
+    background-color: rgb(95, 92, 89);
+}
+.ox5{
+    width:48%;
+    height:300px;
+    background-color: rgb(206, 138, 186);
+}
+.ox6{
+    width:48%;
+    height:300px;
+    background-color: rgb(206, 138, 186);
+}
